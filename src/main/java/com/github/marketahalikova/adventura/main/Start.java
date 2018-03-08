@@ -5,7 +5,7 @@ package com.github.marketahalikova.adventura.main;
 
 
 import com.github.marketahalikova.adventura.logika.*;
-import com.github.marketahalikova.adventura.uiText.TextoveRozhrani;
+import com.github.marketahalikova.adventura.ui.TextoveRozhrani;
 
 /*******************************************************************************
  * Třída {@code Start} je hlavní třídou projektu,

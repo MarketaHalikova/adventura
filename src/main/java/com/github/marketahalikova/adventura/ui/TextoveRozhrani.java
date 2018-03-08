@@ -1,4 +1,4 @@
-package com.github.marketahalikova.adventura.uiText;
+package com.github.marketahalikova.adventura.ui;
 
 
 import java.util.Scanner;
